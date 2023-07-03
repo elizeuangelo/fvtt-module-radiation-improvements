@@ -4,7 +4,7 @@
 ![GitHub Releases](https://img.shields.io/github/downloads/elizeuangelo/fvtt-module-radiation-improvements/latest/module.zip)
 ![GitHub All Releases](https://img.shields.io/github/downloads/elizeuangelo/fvtt-module-radiation-improvements/module.zip?label=downloads)
 
-Displays an interactive radiation bar on tokens and changes max-health in accordance to the radiation level.
+Displays radiation on a tokens hp bar and changes health in accordance to the radiation level.
 
 ## Installation
 

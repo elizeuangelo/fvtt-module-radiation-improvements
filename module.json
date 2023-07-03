@@ -1,7 +1,7 @@
 {
 	"id": "radiation-improvements",
-	"title": "Radiation Improvements",
-	"description": "Displays a radiation bar on tokens and creates some automation related to radiation and max health.",
+	"title": "☢️ Radiation Improvements",
+	"description": "Displays radiation on token hp bar and creates some automation related to radiation and max health.",
 	"version": "1.0.0",
 	"authors": [
 		{

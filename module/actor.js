@@ -2,7 +2,7 @@
 /*  Gameplay Mechanics                          */
 /* -------------------------------------------- */
 
-export default class FalloutActorIncremented extends CONFIG.Actor.documentClass {
+export class FalloutActorIncremented extends CONFIG.Actor.documentClass {
 	/** @override */
 	async modifyTokenAttribute(attribute, value, isDelta, isBar) {
 		if (attribute === 'health') {

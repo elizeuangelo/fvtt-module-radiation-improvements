@@ -1,7 +1,7 @@
 import { FalloutTokenDocument } from './module/token-document.js';
 import { FalloutToken } from './module/token.js';
 
-Hooks.once('setup', async () => {
+Hooks.once('init', async () => {
 	CONFIG.FALLOUT.tokenHPColors = {
 		damage: 0xff0000,
 		radiation: 0x550000,
