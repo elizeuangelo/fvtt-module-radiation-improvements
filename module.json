@@ -19,7 +19,7 @@
 			{
 				"id": "fallout",
 				"type": "system",
-				"manifest": "https://raw.githubusercontent.com/superseva/fallout/main/system.json",
+				"manifest": "https://github.com/superseva/fallout/releases/download/v10.1.4/system.json",
 				"compatibility": {
 					"minimum": "10.1.4",
 					"verified": "11.0.1"
